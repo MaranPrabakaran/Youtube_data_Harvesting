@@ -1,1 +1,5 @@
-# Youtube_data_Harvesting
+# YouTube Data Harvesting and Warehousing
+This repository contains a project that focuses on harvesting data from YouTube using YouTube's public APIs and storing it in both SQL and MongoDB databases. The project also includes a user-friendly Streamlit application for querying and analyzing the harvested data.
+
+Project Overview
+The YouTube Data Harvesting and Warehousing project aims to extract data from YouTube's public APIs, store it in a SQL database and a MongoDB database, and provide a convenient interface for querying and analyzing the data using a Streamlit application.
